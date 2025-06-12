@@ -1,4 +1,5 @@
-# FLUX: A pipeline for MEG analysis
+# FLUX: A pipeline for OPM-MEG analysis of Cerca data
+
 
 Magnetoencephalography (MEG) allows for quantifying modulations of human neuronal activity on a millisecond time scale while also making it possible to estimate the location of the underlying neuronal sources. The technique relies heavily on signal processing and source modelling. <br />
 To this end, there are several open-source toolboxes developed by the community. While these toolboxes are powerful as they provide a wealth of options for analyses, the many options also pose a challenge for reproducible research as well as for researchers new to the field. <br /><br />
